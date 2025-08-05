@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #094e6e;
     --alto-contraste-fundo: #6a4e6e;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #fbbee0;
     --alto-contraste-link: #ffd700;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #fbbee0;
 }
 
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #fbbee0;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #fbbee0;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #fbbee0;
 }
 .menu-acessibilidade{
     position: fixed;
